@@ -1,0 +1,4 @@
+﻿  questão-04.cpp
+C:\Users\th_ma\Documentos\ProgComp\Laboratórios\Lab_003\Aprendizagem_04\questão-04.cpp(18,30): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\th_ma\Documentos\ProgComp\Laboratórios\Lab_003\Aprendizagem_04\questão-04.cpp(19,25): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  Aprendizagem_04.vcxproj -> C:\Users\th_ma\Documentos\ProgComp\Laboratórios\Lab_003\Aprendizagem_04\x64\Debug\Aprendizagem_04.exe
