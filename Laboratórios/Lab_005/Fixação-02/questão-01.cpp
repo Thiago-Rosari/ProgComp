@@ -1,4 +1,4 @@
-// Exercício de fixação 01
+// Exercício de fixação 02
 #include <iostream>
 using namespace std;
 
