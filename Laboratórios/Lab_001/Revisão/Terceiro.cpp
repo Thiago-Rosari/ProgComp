@@ -8,7 +8,7 @@ int main()
     cout << "Numero de Dias: ";
     cin >> dias;   // lê um valor para a variável
 	
-	int horas = dias * 60;
+	int horas = dias * 24;
     cout << dias << " dias tem " << horas << " horas." << endl;
     
     return 0;
