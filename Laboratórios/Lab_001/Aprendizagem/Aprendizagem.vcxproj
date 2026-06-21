@@ -18,11 +18,14 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Questão_04.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{df0b7848-0c23-4e86-af0a-33e702ef88ff}</ProjectGuid>
-    <RootNamespace>Fixação</RootNamespace>
+    <ProjectGuid>{d2c97dc0-b27f-4a5e-8874-6f28ee44c20d}</ProjectGuid>
+    <RootNamespace>Aprendizagem</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -138,9 +141,6 @@
       <EnableSegmentHeap>true</EnableSegmentHeap>
     </Manifest>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="Questão_01.cpp" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
